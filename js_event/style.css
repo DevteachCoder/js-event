@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 400px;
+    background-color: darkgray;
+    gap: 40px;
+}
+
+.item {
+    width: 80px;
+    height: 80px;
+    background-color: greenyellow;
+}
+
+#item2 {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+}
